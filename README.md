@@ -79,6 +79,8 @@ uploaded = files.upload()
 
 4. Review insights for HR strategy
 
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/99fedeff-7307-4afa-9b6b-4131c2dfb20e" />
+
 # **Observation**
 1. Attrition prediction is challenging due to class imbalance.
 
