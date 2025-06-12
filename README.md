@@ -59,16 +59,16 @@
 - Retain younger talent through growth programs
 
 # **How to Run the Code**
-1. Upload CSV File
+**1. Upload CSV File:**
 
 from google.colab import files  
 uploaded = files.upload()
 
-2. Install SHAP & LIME (if needed)
+**2. Install SHAP & LIME :**
 
 !pip install shap lime
 
-3. Run the Notebook in Order:
+**3. Run the Notebook in Order:**
 
 1. Load and explore the dataset
 
