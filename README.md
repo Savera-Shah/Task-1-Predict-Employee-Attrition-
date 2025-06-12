@@ -22,7 +22,8 @@
 - Split into training and testing sets (80/20 split).
 
 - Model Training
-**4.  Trained two models:**
+  
+**4. Trained two models:**
 - Random Forest Classifier
 
 - Logistic Regression
